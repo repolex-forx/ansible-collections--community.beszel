@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.beszel/commit/c793c29e1e0855c8b740195ed007f0fbe029e45b",
       "git:hexsha": "c793c29e1e0855c8b740195ed007f0fbe029e45b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.1.0"
     },
     {
