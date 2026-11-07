@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.beszel/commit/c793c29e1e0855c8b740195ed007f0fbe029e45b",
       "git:hexsha": "c793c29e1e0855c8b740195ed007f0fbe029e45b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.1.0",
+      "repolex:parsedAt": "2026-11-07T15:32:15.024935+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.beszel/commit/fbffc4c3d60e9edd63fa95fa8586c6803f4c22c8",
